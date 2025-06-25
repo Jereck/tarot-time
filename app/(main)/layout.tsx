@@ -8,7 +8,7 @@ export default async function MainLayout({ children }: { children: React.ReactNo
     return (
         <main className="relative">
             { user ? <PrivateNavBar /> : <PublicNavBar /> }
-            <section className="pt-36">
+            <section>
                 { children }
             </section>
         </main>
