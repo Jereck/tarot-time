@@ -23,3 +23,11 @@
 - **ORM:** Drizzle ORM (or Prisma, depending on your final setup)
 
 ---
+
+## Coming Soon
+
+- Stripe or Tip integration
+- Reader analytics dashboard
+- Session reminders and post-reading notes
+- Public discovery pages
+
