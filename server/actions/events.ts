@@ -1,4 +1,4 @@
-'use server' // Marks this file as a Server Action - required for Next.js App Router
+'use server'
 
 import { db } from "@/drizzle/db";
 import { EventTable } from "@/drizzle/schema";
